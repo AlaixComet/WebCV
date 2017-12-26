@@ -1,0 +1,8 @@
+.form_list {
+    border: 2px outset rgb(99, 99, 250);
+    color: rgb(49, 108, 235);
+}
+
+.form_list:hover {
+    border-style: inset;
+}
